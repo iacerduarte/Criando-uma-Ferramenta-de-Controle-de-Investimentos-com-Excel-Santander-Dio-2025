@@ -1,0 +1,23 @@
+# 📄 Documentação Técnica
+
+## Visão Geral
+Este documento descreve a lógica de funcionamento da planilha de simulação de investimentos em Fundos Imobiliários.
+
+## Estrutura da Planilha
+- Aba: Simulação
+- Aba: Parâmetros (se houver)
+
+## Fórmulas Utilizadas
+- Total Investido:
+  = Valor_Mensal * Quantidade_Meses
+
+- Patrimônio Acumulado:
+  Fórmula baseada em capitalização mensal
+
+- Dividendos Mensais:
+  = Patrimônio * Taxa_de_Rendimento
+
+## Premissas
+- Taxa de rendimento constante
+- Aportes mensais fixos
+- Simulação educacional (não recomendação financeira)
